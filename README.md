@@ -1,6 +1,6 @@
 # sandbox
 a place to play and test stuff
-I created this is the Mac App but maybe it didn't get pushed upstairs?
+I created this repo in the Mac App, but maybe it didn't get pushed upstairs?
 
 What's wrong with tutorials?
 
@@ -12,4 +12,4 @@ What's wrong with tutorials?
 
 OK, so I have edited my readme.
    
-   Now, how do I get this in my files and pushed up????
+   Now, how do I get this in my local files and pushed up to the web repo ????
